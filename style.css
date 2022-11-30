@@ -30,7 +30,7 @@ body {
     font-weight: bold;
 }
 
-.col-sm-12 {
+.col-sm-12.text-center.section-title {
     width: 90%;
     margin-left: auto;
     margin-right: auto;
