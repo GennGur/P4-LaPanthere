@@ -9,6 +9,12 @@ body {
 
 .logopanthere{
     height: 40px;
+    width: 100%;
+}
+
+.panthere-head{
+    height: auto;
+    width: 100px;
 }
 
 .center-block{
